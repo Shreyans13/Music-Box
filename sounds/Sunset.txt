@@ -1,0 +1,45 @@
+{
+  "behaviour": {
+    "pad1": 200, 
+    "pad10": 200, 
+    "pad11": 100, 
+    "pad12": 200, 
+    "pad2": 100, 
+    "pad3": 200, 
+    "pad4": 200, 
+    "pad5": 100, 
+    "pad6": 200, 
+    "pad7": 200, 
+    "pad8": 100, 
+    "pad9": 200
+  }, 
+  "colors": {
+    "pad1": "amarelo", 
+    "pad10": "amarelo", 
+    "pad11": "azul_loop", 
+    "pad12": "rosa", 
+    "pad2": "azul_loop", 
+    "pad3": "rosa", 
+    "pad4": "amarelo", 
+    "pad5": "azul_loop", 
+    "pad6": "rosa", 
+    "pad7": "amarelo", 
+    "pad8": "azul_loop", 
+    "pad9": "rosa"
+  },
+  "groups": {
+    "pad1": 1, 
+    "pad10": 1, 
+    "pad11": 2, 
+    "pad12": 3, 
+    "pad2": 2, 
+    "pad3": 3, 
+    "pad4": 1, 
+    "pad5": 2, 
+    "pad6": 3, 
+    "pad7": 1, 
+    "pad8": 2, 
+    "pad9": 3
+  }, 
+  "preset": "sunset"
+}

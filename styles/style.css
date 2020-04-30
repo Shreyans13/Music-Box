@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+* body {
+  background: #454545;
+}
+* body .container {
+  padding-top: 20px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+* body .squareBox {
+  width: 150px;
+  height: 150px;
+  background: purple;
+  float: left;
+  margin: 1.66%;
+  border-radius: 15%;
+  text-align: center;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+* body .squareBox:nth-child(1), * body .squareBox:nth-child(4), * body .squareBox:nth-child(7), * body .squareBox:nth-child(10) {
+  background: #ffa500;
+}
+* body .squareBox:nth-child(2), * body .squareBox:nth-child(5), * body .squareBox:nth-child(8), * body .squareBox:nth-child(11) {
+  background: #2727ff;
+}
+* body .squareBox:nth-child(2) .icon, * body .squareBox:nth-child(5) .icon, * body .squareBox:nth-child(8) .icon, * body .squareBox:nth-child(11) .icon {
+  position: relative;
+  top: calc(50% - 20px);
+  font-size: 35px;
+  color: white;
+}
+* body .squareBox:nth-child(3), * body .squareBox:nth-child(6), * body .squareBox:nth-child(9), * body .squareBox:nth-child(12) {
+  background: #ff3b3b;
+}
+* body .shadow {
+  box-shadow: inset 0 0 10px #000000;
+}
+
+/*# sourceMappingURL=style.css.map */
